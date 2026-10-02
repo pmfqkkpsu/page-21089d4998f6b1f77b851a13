@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d6cf72a268.envhspi.cn/sitemap.xml
